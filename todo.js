@@ -1,4 +1,5 @@
 
+
 const tasks = ["Read course notes", "Finish Git exercise", "Submit assignment"];
 
 console.log("Tasks");
